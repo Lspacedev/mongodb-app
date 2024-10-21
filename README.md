@@ -8,6 +8,7 @@ Start project by installing dependencies
 
 ```bash
 Install mongodbSh
+Run script: mongosh --file mongodb.js
 ```
 
 ## Usage
